@@ -1,6 +1,8 @@
 # SilviaEv6ModPCB
 Ranzillio Silvia E v6 Mod PCB
 
+# Parts
+´https://www.auberins.com/index.php?main_page=product_info&products_id=32
 
 # Sources
 - [Microchip Application Note AN521 – Interfacing to AC Power Lines (PDF)](https://ww1.microchip.com/downloads/en/AppNotes/00521c.pdf)
