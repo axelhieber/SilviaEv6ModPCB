@@ -4,6 +4,7 @@ Ranzillio Silvia E v6 Mod PCB
 # Umsetzung
 Heizung -> triac mit Vollwellensteuerung (auch als Wellenpaketsteuerung oder Schwingungspaketsteuerung bezeichnet)
 Pumpe -> triac mit phasenanschnitt
+sd card für logging esp32
 
 Aufteilung Heiße (mit 230V in Kontakt) seite und Kalteseite (berührsicher selv/pelv)
 
