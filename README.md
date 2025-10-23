@@ -19,7 +19,7 @@ Wage - ali
 
 
 # Parts
-Triac T3035H-6x - heizung & pumpe (snuber,tsv, mov) Source 1 -> beschaltung ev fig 7
+Triac T3035H-8G - heizung & pumpe (snuber,tsv, mov) Source 1 -> beschaltung ev fig 7
 
 MPM-05-5 - AC/DC-Leistungsmodule 5W 5V 1A Medical Enclosed PS -4kV iso - class 2 doppel isoliert (Kalt)
 IRM-01-5  - AC/DC-Leistungsmodule 1W 5V 200mA 85-305Vin PCB Encap - 3k iso (Heiß)
